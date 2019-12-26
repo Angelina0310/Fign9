@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Love-tesy^_^)
+                    Lьтшлу
                 </div>
 
                 <div class="links">
